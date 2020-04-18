@@ -17,3 +17,8 @@ console.log(abc.length);
 */
 
 //your code here
+let triangle = ["#","##","###","####","#####","######","#######"];
+
+for (let i = 1; i < triangle.length; i++){
+    console.log(triangle[i]);
+}

@@ -5,6 +5,7 @@ Given an array of numbers, create a function to return the maximum
 
 function max(numbers){
     //your code here
+    return Math.max(a, b);
 }
 
 const numbersArray1 = [1,3,5,9];

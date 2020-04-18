@@ -19,6 +19,10 @@ console.log(namesArray.length); //2
 function find(cities, letter){
 	var counter = 0;
 	//your code here
+	for ( let i = 0; i < citiesArray.length; i++){
+		console.log(citiesArray[i]);
+		break;
+	}
 	return counter;
 }
 
